@@ -1,0 +1,16 @@
+C:\Users\Людмила\Desktop\MatrixEffect\MatrixEffect\bin\Debug\net6.0\MatrixEffect.exe
+C:\Users\Людмила\Desktop\MatrixEffect\MatrixEffect\bin\Debug\net6.0\MatrixEffect.deps.json
+C:\Users\Людмила\Desktop\MatrixEffect\MatrixEffect\bin\Debug\net6.0\MatrixEffect.runtimeconfig.json
+C:\Users\Людмила\Desktop\MatrixEffect\MatrixEffect\bin\Debug\net6.0\MatrixEffect.dll
+C:\Users\Людмила\Desktop\MatrixEffect\MatrixEffect\bin\Debug\net6.0\ref\MatrixEffect.dll
+C:\Users\Людмила\Desktop\MatrixEffect\MatrixEffect\bin\Debug\net6.0\MatrixEffect.pdb
+C:\Users\Людмила\Desktop\MatrixEffect\MatrixEffect\obj\Debug\net6.0\MatrixEffect.GlobalUsings.g.cs
+C:\Users\Людмила\Desktop\MatrixEffect\MatrixEffect\obj\Debug\net6.0\MatrixEffect.csproj.AssemblyReference.cache
+C:\Users\Людмила\Desktop\MatrixEffect\MatrixEffect\obj\Debug\net6.0\MatrixEffect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Людмила\Desktop\MatrixEffect\MatrixEffect\obj\Debug\net6.0\MatrixEffect.AssemblyInfoInputs.cache
+C:\Users\Людмила\Desktop\MatrixEffect\MatrixEffect\obj\Debug\net6.0\MatrixEffect.AssemblyInfo.cs
+C:\Users\Людмила\Desktop\MatrixEffect\MatrixEffect\obj\Debug\net6.0\MatrixEffect.csproj.CoreCompileInputs.cache
+C:\Users\Людмила\Desktop\MatrixEffect\MatrixEffect\obj\Debug\net6.0\MatrixEffect.dll
+C:\Users\Людмила\Desktop\MatrixEffect\MatrixEffect\obj\Debug\net6.0\ref\MatrixEffect.dll
+C:\Users\Людмила\Desktop\MatrixEffect\MatrixEffect\obj\Debug\net6.0\MatrixEffect.pdb
+C:\Users\Людмила\Desktop\MatrixEffect\MatrixEffect\obj\Debug\net6.0\MatrixEffect.genruntimeconfig.cache
